@@ -1,0 +1,17 @@
+{
+  "name": "my_new_angular",
+  "authors": [
+    "dennismuturia <dmuturia2922@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
